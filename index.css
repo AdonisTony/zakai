@@ -1,0 +1,64 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #151515;
+}
+.container{
+    background-color: #262626;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    border-width: 2px;
+    width: 250px;
+    margin: auto;
+}
+
+.gorselcontainer{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.gorselcontainer img{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #505050;
+    border-width: 2px;
+}
+
+.symbol{
+    font-size: 35px;
+    color: #858585;
+}
+
+.symbol p{
+    font-size: 10px;
+    color: whitesmoke;
+}
+
+.yazicontainer{
+    color: darkslateblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.arkaplan{
+    padding-top: 100px;
+}
+
+.yazicontainer a{
+    color: white;
+    font-size: 35px;
+}
+
+.yazicontainer audio{
+    width: 200px;
+    height: 25px;
+    border-style: solid;
+    border-radius: 100px;
+    border-bottom: 10px;
+    border-top: 10px;
+}
